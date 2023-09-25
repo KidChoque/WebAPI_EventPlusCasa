@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\webapi.4eventplus.manha.props" />
+</Project>
